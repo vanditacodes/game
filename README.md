@@ -1,10 +1,1 @@
-def calc(p):
-    vowels=set('aeiouAEIOU')
-    for chr in p:
-        if chr in vowels:
-            print("error")
-            return
-    print("positive")
-
-x=str(input("enter the word"))
-calc(x)
+<h1> <i></i>Project for Checking if the User input contains no vowel. </i></h1>
